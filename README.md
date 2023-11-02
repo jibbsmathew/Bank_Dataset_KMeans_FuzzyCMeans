@@ -35,13 +35,11 @@ The dataset, named "bank-additional-full.csv," consists of the following input v
    - `nr.employed`: Numeric variable indicating the number of employees as a quarterly indicator.
 
 The output variable (desired target) is:
-- `y`: Binary variable representing whether the client has subscribed to a term deposit (values: 'yes', 'no').
+- `y`: Binary variable representing whether the client has subscribed to a term deposit (values: 'yes', 'no') stored in the 'subscribed' column.
 
 ## Dataset Source
 
-The dataset
-
- can be accessed from the following link: [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+The dataset can be accessed from the following link: [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 
 ## Clustering Evaluation
 
