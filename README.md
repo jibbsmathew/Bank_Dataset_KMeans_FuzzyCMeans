@@ -39,7 +39,7 @@ The output variable (desired target) is:
 
 ## Dataset Source
 
-The dataset can be accessed from the following link: [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+The dataset can be accessed from the link [here](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 
 ## Clustering Evaluation
 
